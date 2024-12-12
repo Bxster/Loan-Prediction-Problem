@@ -1,0 +1,615 @@
+Gender;Married;Dependents;Education;Self_Employed;ApplicantIncome;CoapplicantIncome;LoanAmount;Loan_Amount_Term;Credit_History;Property_Area;Loan_Status
+Male;No;0;Graduate;No;High;Null;NIL;Medium-Long term;1;Urban;Y
+Male;Yes;1;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;Yes;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;Yes;Medium-High;Medium-High;High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;3;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;2;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;1;Graduate;No;High;Medium-High;High;Medium-Long term;1;Semiurban;N
+Male;Yes;2;Graduate;No;Medium-Low;Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;NIL;Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;2;Graduate;No;Low;Low;Low;Medium-Short term;1;Urban;Y
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;1;Not Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;NIL;Urban;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;0;Urban;N
+Male;Yes;0;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;NIL;Low;Medium-High;Medium-High;NIL;1;Urban;Y
+Male;Yes;0;Not Graduate;No;High;Null;Medium-High;Medium-Long term;0;Urban;N
+Male;Yes;1;Graduate;No;High;Medium-High;High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;N
+NIL;Yes;2;Not Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Rural;N
+Male;Yes;1;Graduate;NIL;Medium-Low;Medium-High;Medium-High;Medium-Long term;NIL;Semiurban;N
+Male;Yes;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Not Graduate;No;Medium-High;Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;No;Low;Null;Low;Medium-Long term;1;Urban;N
+Female;No;2;Graduate;NIL;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;NIL;Medium-High;Medium-High;High;Medium-Long term;NIL;Urban;N
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;No;1;Graduate;Yes;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;3;Graduate;No;High;Medium-High;High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;No;Low;Medium-Low;NIL;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-Low;NIL;0;Urban;N
+Female;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;No;0;Graduate;No;Low;Low;Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;NIL;Urban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;Yes;Medium-High;Null;Medium-Low;NIL;1;Urban;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;NIL;1;Urban;Y
+Male;Yes;1;Graduate;No;Medium-High;Null;Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Female;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;0;Urban;N
+Female;No;0;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;N
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;N
+Female;Yes;1;Graduate;Yes;High;Null;High;Medium-Long term;0;Urban;N
+Male;Yes;2;Graduate;No;Low;Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;1;Graduate;No;High;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Not Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;3;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Not Graduate;Yes;Low;Medium-High;Medium-High;Medium-Short term;0;Rural;N
+Male;Yes;1;Graduate;No;Medium-High;Null;NIL;Medium-Long term;0;Rural;N
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;High;Medium-Long term;1;Semiurban;N
+Male;No;0;Not Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Short term;0;Urban;N
+Male;Yes;1;Graduate;No;High;Null;High;Medium-Long term;1;Urban;Y
+Male;Yes;3;Not Graduate;Yes;High;Null;Medium-High;Short term;1;Urban;Y
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Not Graduate;Yes;Low;Medium-Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;3;Not Graduate;No;Medium-High;Null;Medium-Low;NIL;0;Semiurban;N
+Male;Yes;3;Graduate;Yes;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-High;Long term;1;Urban;N
+Male;No;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;N
+Male;Yes;1;Graduate;Yes;Low;Medium-High;Medium-High;Medium-Long term;1;Urban;N
+Male;Yes;3;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;3;Not Graduate;Yes;Medium-Low;Medium-Low;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;Yes;Low;Null;NIL;Medium-Long term;1;Semiurban;Y
+Female;Yes;2;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;N
+Male;Yes;0;Graduate;No;High;Medium-Low;High;Medium-Long term;NIL;Semiurban;N
+Male;Yes;1;Graduate;No;Medium-High;Null;Low;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Not Graduate;No;Medium-Low;Medium-Low;Medium-Low;Medium-Long term;NIL;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;High;Null;High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;High;Medium-High;Medium-High;Medium-Short term;1;Semiurban;Y
+Male;Yes;2;Not Graduate;No;Medium-Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Not Graduate;No;Medium-Low;Null;Low;Medium-Short term;1;Semiurban;Y
+Male;No;0;Graduate;NIL;High;Null;NIL;Medium-Long term;NIL;Urban;N
+Female;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Low;Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Short term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Not Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Short term;1;Urban;Y
+Male;No;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;NIL;Graduate;No;High;Null;NIL;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;NIL;Medium-Long term;1;Semiurban;Y
+Male;NIL;NIL;Graduate;No;Medium-High;Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;1;Graduate;No;Medium-Low;Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;No;High;Low;High;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;NIL;High;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;2;Graduate;No;Medium-Low;Medium-High;High;Medium-Long term;0;Urban;N
+Male;Yes;3;Not Graduate;No;Low;Low;Medium-Low;Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Female;Yes;0;Graduate;NIL;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Medium-Low;Medium-High;Medium-High;NIL;0;Rural;N
+Female;No;1;Graduate;Yes;High;Null;NIL;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;NIL;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;No;High;Null;Medium-High;Medium-Short term;1;Rural;Y
+Female;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;NIL;Urban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Female;No;0;Graduate;No;High;Null;High;Medium-Long term;1;Urban;Y
+Male;Yes;NIL;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Medium-High;Null;Low;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;0;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;NIL;Rural;Y
+NIL;Yes;3;Graduate;No;High;Null;High;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;No;Medium-High;Medium-Low;NIL;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;Yes;High;Medium-High;Medium-High;Medium-Short term;0;Urban;N
+Male;Yes;0;Graduate;No;High;Medium-High;Medium-High;Medium-Long term;NIL;Rural;N
+Male;No;0;Graduate;Yes;High;Null;Very High;Long term;NIL;Urban;Y
+Male;No;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;Yes;Medium-Low;Null;Low;Medium-Short term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;3;Graduate;No;Medium-High;Medium-High;High;Medium-Long term;1;Semiurban;N
+Female;Yes;0;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Rural;N
+Male;Yes;2;Graduate;Yes;Medium-Low;Medium-High;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;High;Null;High;Medium-Long term;0;Semiurban;N
+Male;Yes;2;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;2;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-High;Medium-Short term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;High;Null;Medium-High;Medium-Short term;1;Urban;Y
+Female;Yes;0;Graduate;No;Low;Medium-High;Medium-Low;Medium-Long term;1;Semiurban;Y
+Female;Yes;2;Graduate;No;High;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;1;Graduate;No;Low;Medium-Low;Low;Medium-Long term;1;Urban;Y
+Female;No;0;Graduate;No;High;Medium-Low;High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;No;Medium-High;Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;0;Rural;N
+Male;Yes;0;Graduate;Yes;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;No;High;Null;High;Medium-Long term;1;Urban;N
+Male;Yes;2;Not Graduate;No;Low;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;No;0;Graduate;No;Medium-Low;Null;Low;Medium-Long term;1;Urban;Y
+Male;Yes;3;Graduate;No;High;Null;Very High;Medium-Short term;0;Semiurban;Y
+Male;Yes;1;Graduate;No;High;Null;Medium-High;Medium-Long term;NIL;Rural;Y
+Male;Yes;1;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;NIL;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Low;Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Null;High;Medium-Long term;1;Urban;N
+Male;Yes;1;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;2;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;High;Null;Medium-Low;Medium-Short term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;NIL;1;Rural;Y
+Female;Yes;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;No;Low;Null;Medium-Low;Long term;0;Semiurban;N
+Male;Yes;2;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;NIL;Low;Medium-Low;Medium-Low;Medium-Long term;1;Rural;Y
+NIL;Yes;3;Graduate;No;High;Null;Very High;Medium-Long term;1;Urban;Y
+Male;Yes;3;Not Graduate;No;Medium-Low;Null;Medium-Low;Medium-Short term;1;Rural;N
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;Yes;Medium-High;Low;Medium-Low;Medium-Long term;1;Semiurban;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;3;Graduate;No;Medium-High;Medium-High;Very High;Medium-Long term;0;Semiurban;N
+Male;Yes;1;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Not Graduate;No;Low;Medium-Low;Medium-High;Long term;0;Urban;N
+Male;Yes;1;Graduate;No;High;Medium-High;Medium-High;Medium-Long term;0;Urban;N
+Male;No;0;Graduate;No;Low;Medium-High;Medium-Low;Medium-Long term;NIL;Rural;N
+Male;Yes;0;Graduate;No;Medium-High;Null;Medium-Low;Medium-Short term;1;Semiurban;Y
+Male;Yes;1;Graduate;No;High;Null;High;Medium-Long term;1;Semiurban;N
+Female;Yes;0;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;Yes;High;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;Yes;Low;Null;Medium-Low;Medium-Long term;0;Rural;N
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;NIL;Rural;Y
+NIL;Yes;0;Graduate;Yes;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;High;Null;Medium-High;Medium-Short term;1;Rural;Y
+Male;No;0;Not Graduate;No;Medium-High;Null;Low;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;N
+Male;Yes;0;Not Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;N
+Male;No;0;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;N
+Male;No;0;Graduate;No;High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Not Graduate;No;Low;Medium-Low;Medium-High;NIL;1;Urban;Y
+Female;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;Yes;1;Not Graduate;No;Low;Medium-High;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;No;2;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;0;Semiurban;Y
+Male;Yes;3;Not Graduate;No;Medium-High;Null;NIL;Medium-Short term;1;Urban;N
+Male;Yes;1;Not Graduate;No;Medium-Low;Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;0;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;No;Medium-High;Medium-High;Medium-Low;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Semiurban;N
+Female;No;0;Graduate;No;High;Null;High;Medium-Long term;1;Semiurban;N
+Male;Yes;3;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;1;Graduate;Yes;High;Null;High;Medium-Long term;1;Urban;Y
+Male;Yes;3;Not Graduate;Yes;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;3;Not Graduate;No;Medium-High;Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;NIL;Medium-High;Null;Medium-Low;Medium-Long term;0;Semiurban;N
+Female;Yes;2;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;0;Urban;N
+Male;Yes;2;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Low;Medium-High;NIL;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;NIL;Not Graduate;Yes;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;N
+Male;Yes;2;Graduate;No;High;Medium-Low;High;Medium-Long term;1;Semiurban;Y
+Male;NIL;NIL;Graduate;No;Medium-High;Null;Medium-High;Long term;1;Semiurban;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;NIL;Medium-Low;Null;Low;Medium-Short term;1;Rural;Y
+Male;No;0;Not Graduate;No;Medium-Low;Medium-High;Medium-High;NIL;1;Rural;Y
+Female;No;0;Graduate;No;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;NIL;Medium-High;Null;High;Medium-Long term;NIL;Urban;N
+Female;No;0;Graduate;Yes;Medium-Low;Null;Medium-High;Medium-Long term;NIL;Urban;Y
+Female;No;1;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Short term;1;Urban;N
+Male;No;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Short term;1;Urban;Y
+Male;Yes;2;Graduate;Yes;High;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Not Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;Yes;High;Medium-High;Medium-High;Medium-Short term;1;Urban;N
+Male;Yes;2;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;1;Not Graduate;No;High;Null;Medium-High;Medium-Short term;1;Urban;Y
+Male;Yes;1;Graduate;No;Medium-Low;Medium-Low;Medium-High;Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-High;High;Medium-Long term;0;Semiurban;N
+Female;No;2;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Urban;N
+Male;No;0;Not Graduate;Yes;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Not Graduate;No;Low;Medium-High;High;Medium-Short term;1;Semiurban;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;0;Urban;N
+Female;No;3;Graduate;No;Medium-Low;Null;High;Medium-Long term;1;Rural;Y
+Male;No;0;Not Graduate;No;High;Null;Medium-High;Medium-Long term;0;Rural;N
+Male;Yes;3;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;Yes;0;Graduate;No;High;Medium-Low;High;Medium-Long term;1;Rural;N
+Male;Yes;3;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;NIL;Semiurban;N
+Male;Yes;1;Graduate;No;High;Medium-High;High;Medium-Long term;NIL;Urban;Y
+Male;No;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;1;Graduate;No;Medium-Low;Null;Medium-High;Short term;1;Semiurban;N
+Female;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;Yes;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;3;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;0;Urban;Y
+Female;No;0;Graduate;NIL;Medium-Low;Null;Medium-High;Medium-Long term;1;Rural;N
+Female;No;1;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;High;Null;Very High;Medium-Long term;1;Semiurban;Y
+Female;Yes;0;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;NIL;Rural;Y
+Male;No;1;Not Graduate;Yes;Medium-High;Medium-High;Medium-High;Medium-Long term;0;Urban;N
+Male;Yes;0;Graduate;No;Medium-High;Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Low;985.7999878;Medium-Low;Medium-Short term;1;Urban;Y
+Female;No;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;High;Null;NIL;Medium-Long term;1;Rural;N
+Male;No;0;Graduate;No;Medium-Low;Medium-High;Medium-Low;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;Yes;Low;Medium-Low;Medium-Low;Medium-Long term;1;Semiurban;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;2;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Female;No;NIL;Graduate;No;Medium-High;Null;Medium-High;Long term;0;Urban;N
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;3;Graduate;NIL;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;1;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;Yes;1;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Female;No;0;Graduate;No;Medium-High;Medium-High;Medium-High;Long term;1;Rural;N
+Male;Yes;1;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Urban;N
+Male;Yes;0;Not Graduate;No;Low;Medium-High;Medium-Low;Medium-Long term;0;Urban;N
+Male;Yes;NIL;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Not Graduate;No;Low;Null;NIL;Medium-Long term;1;Urban;N
+Female;No;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;0;Urban;N
+Male;No;0;Graduate;No;High;Null;Very High;Medium-Long term;1;Rural;N
+Male;Yes;2;Not Graduate;No;High;Null;Medium-High;Medium-Long term;NIL;Rural;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;No;0;Not Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;Yes;Medium-High;Null;Medium-High;Medium-Short term;NIL;Rural;Y
+NIL;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;1;Not Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Short term;1;Urban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;NIL;Urban;Y
+Female;No;1;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Male;Yes;1;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;3;Graduate;No;Medium-High;Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Not Graduate;No;Medium-Low;Medium-Low;NIL;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;NIL;Rural;Y
+Male;Yes;3;Graduate;No;High;Null;High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;Yes;High;Medium-High;High;Medium-Long term;0;Rural;N
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;0;Rural;Y
+Male;Yes;0;Graduate;Yes;High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;Yes;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Urban;N
+Female;No;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;1;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;No;NIL;Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;NIL;High;Null;Very High;Medium-Short term;1;Urban;Y
+NIL;Yes;1;Graduate;Yes;High;Medium-Low;Medium-High;Medium-Short term;1;Urban;Y
+Male;Yes;NIL;Graduate;Yes;Medium-High;Medium-High;Medium-Low;NIL;1;Semiurban;Y
+Male;Yes;1;Graduate;NIL;Medium-High;Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;Yes;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;3;Not Graduate;No;Low;Null;NIL;Medium-Long term;0;Urban;N
+Female;No;0;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;3;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;N
+Female;No;0;Graduate;No;Low;Null;Low;Medium-Long term;1;Rural;N
+Male;Yes;1;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;3;Not Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;NIL;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;NIL;Not Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;0;Rural;N
+Male;Yes;2;Not Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;High;Medium-High;High;Medium-Long term;NIL;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;High;Medium-High;High;Medium-Long term;1;Rural;N
+Male;Yes;3;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Rural;Y
+Female;Yes;0;Graduate;Yes;Medium-High;Null;Medium-High;Medium-Long term;0;Rural;N
+Female;Yes;0;Graduate;No;Low;Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;NIL;Graduate;No;Medium-Low;Null;Medium-High;Medium-Short term;1;Urban;Y
+Male;Yes;2;Graduate;No;High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;Yes;0;Not Graduate;No;Medium-Low;Medium-Low;Medium-Low;Long term;0;Urban;N
+Male;Yes;3;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;1;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;N
+Male;Yes;2;Graduate;No;Medium-High;Medium-High;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-Low;Medium-Long term;NIL;Urban;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Not Graduate;No;High;Null;Medium-High;Medium-Long term;1;Rural;N
+Male;No;0;Graduate;No;Low;Null;Medium-Low;Long term;1;Semiurban;N
+Male;No;0;Graduate;No;Medium-High;Null;Medium-High;NIL;0;Rural;N
+Male;Yes;1;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Medium-High;Very High;Medium-Long term;1;Rural;N
+Female;No;0;Graduate;Yes;High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;Yes;High;Medium-High;High;Medium-Long term;1;Rural;Y
+Male;No;1;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Short term;0;Urban;N
+Female;No;0;Graduate;NIL;Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-High;Low;Medium-High;Medium-Short term;1;Urban;Y
+Male;Yes;3;Graduate;No;High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Long term;1;Urban;N
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;NIL;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;High;Medium-High;High;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;No;1;Graduate;NIL;Medium-Low;Null;Medium-High;Medium-Short term;1;Urban;Y
+Male;No;0;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Medium-Low;Medium-High;NIL;Medium-Long term;0;Urban;N
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;3;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;3;Graduate;No;High;Null;High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;NIL;Urban;Y
+Male;Yes;2;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Short term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Low;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;0;Urban;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;2;Not Graduate;No;Medium-Low;Null;Low;Medium-Short term;0;Urban;N
+Male;No;0;Not Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Rural;N
+Male;No;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;No;0;Not Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Rural;N
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Female;No;0;Not Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;No;High;Null;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;3;Graduate;No;Very High;Null;High;Medium-Long term;0;Rural;N
+Female;No;1;Not Graduate;Yes;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;N
+Male;Yes;0;Graduate;NIL;High;Null;Medium-High;Medium-Long term;NIL;Urban;Y
+Male;Yes;0;Not Graduate;No;High;Null;High;Medium-Long term;0;Rural;N
+Male;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;Yes;0;Not Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;0;Semiurban;N
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Female;No;1;Graduate;No;Low;Null;Medium-High;Medium-Long term;1;Urban;N
+Male;Yes;2;Graduate;Yes;Low;Medium-High;High;Medium-Long term;1;Urban;N
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Not Graduate;No;Low;Null;Medium-Low;NIL;0;Urban;N
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;1;Graduate;No;High;Medium-Low;Medium-High;NIL;0;Urban;N
+Male;Yes;0;Graduate;No;High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;1;Not Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Rural;N
+Male;Yes;2;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-Low;16.12000084;Medium-Low;Medium-Long term;1;Rural;Y
+Male;No;0;Not Graduate;No;Low;Null;Medium-Low;Medium-Short term;1;Urban;Y
+Female;No;1;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;0;Rural;N
+Male;No;0;Graduate;NIL;High;Null;Very High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Female;NIL;NIL;Graduate;No;High;Null;NIL;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Low;Medium-Low;Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Low;NIL;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;0;Urban;N
+Female;Yes;0;Not Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;3;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;1;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Medium-High;Medium-High;Medium-Long term;NIL;Rural;Y
+Male;Yes;1;Graduate;Yes;Medium-Low;Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;NIL;Medium-Low;Medium-Low;Medium-Low;Medium-Long term;1;Rural;N
+Male;Yes;2;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Rural;N
+Male;No;1;Not Graduate;Yes;Low;Medium-Low;Medium-High;Medium-Long term;NIL;Semiurban;N
+Male;Yes;2;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;0;Rural;N
+Male;Yes;2;Not Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;NIL;Urban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;0;Rural;N
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-Low;Medium-Short term;0;Rural;Y
+Male;No;0;Graduate;Yes;High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;N
+Male;No;2;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;N
+NIL;Yes;0;Graduate;Yes;Low;Medium-High;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Male;Yes;3;Graduate;No;High;Null;Medium-High;Medium-Short term;1;Urban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;1;Not Graduate;NIL;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;0;Semiurban;N
+Male;No;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;3;Not Graduate;No;Medium-Low;Medium-Low;Medium-Low;Medium-Short term;0;Urban;N
+NIL;Yes;0;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;Yes;2;Not Graduate;NIL;Low;Medium-High;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Urban;N
+Male;Yes;1;Graduate;Yes;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Short term;0;Rural;N
+Male;Yes;3;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;Yes;Low;Null;Medium-Low;Medium-Long term;NIL;Urban;Y
+Male;No;2;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;Yes;High;Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;No;High;Medium-Low;High;Medium-Long term;1;Semiurban;Y
+NIL;Yes;2;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;1;Graduate;Yes;High;Medium-Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Medium-Low;NIL;Medium-Long term;1;Urban;N
+Female;No;0;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;3;Not Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Not Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;2;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;0;Rural;N
+Male;Yes;1;Graduate;No;High;Null;Very High;Medium-Long term;1;Urban;N
+Male;Yes;2;Graduate;Yes;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;No;0;Not Graduate;No;Low;Medium-High;Medium-Low;Medium-Long term;NIL;Semiurban;Y
+Male;Yes;1;Not Graduate;No;Medium-High;Low;Medium-High;Medium-Long term;NIL;Urban;Y
+Male;No;0;Not Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Not Graduate;Yes;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Rural;N
+Female;Yes;1;Graduate;No;Medium-Low;Low;Medium-High;Medium-Short term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;Medium-High;Short term;NIL;Urban;Y
+Male;Yes;1;Graduate;Yes;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;High;Medium-High;High;Medium-Long term;0;Rural;N
+Female;No;0;Graduate;No;Low;Medium-High;Medium-High;Long term;1;Rural;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-High;Medium-High;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Not Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;NIL;Rural;N
+Male;Yes;0;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Medium-High;High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;High;Medium-High;Very High;Medium-Long term;NIL;Urban;Y
+NIL;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;N
+Male;Yes;0;Graduate;Yes;Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Female;No;1;Graduate;No;High;Null;Low;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;No;Medium-Low;Medium-Low;Medium-Low;Medium-Long term;1;Rural;N
+Male;Yes;1;Graduate;No;High;Medium-Low;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;Medium-Low;Medium-Short term;1;Semiurban;N
+Male;No;0;Graduate;No;High;Medium-High;High;Medium-Long term;1;Rural;N
+Male;Yes;3;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Female;Yes;2;Graduate;No;Low;Medium-Low;Medium-High;Long term;1;Semiurban;Y
+Male;Yes;NIL;Not Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;N
+Male;No;0;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;N
+Female;No;0;Not Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Rural;N
+Male;Yes;2;Not Graduate;No;Low;Medium-Low;Low;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;3;Graduate;Yes;Medium-High;Medium-Low;Medium-Low;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;Yes;High;Medium-High;Very High;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;No;Medium-High;Medium-Low;NIL;Medium-Long term;1;Semiurban;N
+Male;Yes;2;Graduate;Yes;High;Null;High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;Y
+Male;No;1;Not Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;No;0;Not Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-High;High;Medium-Long term;NIL;Rural;Y
+Male;Yes;3;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;No;2;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;0;Rural;N
+Male;No;1;Graduate;No;High;Null;Medium-High;Medium-Long term;NIL;Semiurban;N
+Female;No;0;Not Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;NIL;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;High;Medium-High;High;Medium-Long term;1;Urban;Y
+Male;No;2;Graduate;No;Medium-Low;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Medium-Low;Low;Medium-Low;Medium-Long term;1;Rural;N
+Male;Yes;3;Graduate;No;High;Null;Medium-High;Medium-Short term;1;Rural;Y
+Female;Yes;1;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Short term;1;Semiurban;Y
+Female;No;0;Graduate;No;Low;Null;Medium-Low;Medium-Long term;0;Semiurban;N
+Female;No;1;Graduate;NIL;Medium-Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Not Graduate;No;Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Female;Yes;0;Not Graduate;No;Medium-Low;Low;Medium-High;Medium-Long term;NIL;Semiurban;Y
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Not Graduate;No;Medium-Low;Null;Medium-Low;Short term;1;Semiurban;N
+Male;No;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;Yes;High;Null;NIL;Medium-Long term;0;Rural;N
+Male;Yes;1;Not Graduate;No;Low;Medium-Low;NIL;Medium-Long term;1;Rural;Y
+Male;Yes;1;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;0;Urban;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Short term;0;Rural;N
+Male;Yes;1;Graduate;No;Medium-High;Low;Low;Medium-Long term;1;Semiurban;Y
+Female;No;0;Graduate;No;Low;Medium-Low;Medium-Low;Medium-Long term;NIL;Urban;Y
+Male;Yes;3;Graduate;Yes;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;Yes;0;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Not Graduate;No;Medium-Low;Low;Medium-High;Medium-Long term;1;Semiurban;Y
+Female;Yes;1;Graduate;Yes;High;Null;Very High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;High;Medium-Low;High;Medium-Long term;1;Rural;Y
+Male;No;0;Not Graduate;Yes;Medium-High;Null;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;No;High;Null;High;Medium-Long term;0;Urban;N
+Male;Yes;0;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;NIL;Rural;Y
+Male;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Urban;Y
+Male;Yes;3;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;0;Rural;N
+Female;No;0;Graduate;No;Low;Null;Low;Medium-Long term;1;Urban;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Urban;N
+Male;Yes;1;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;NIL;Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;0;Urban;N
+Male;Yes;2;Graduate;No;High;Null;High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Not Graduate;No;High;Medium-Low;Medium-High;Long term;1;Semiurban;N
+Male;Yes;3;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Semiurban;N
+Male;Yes;2;Graduate;No;Medium-Low;Low;Medium-High;Medium-Short term;1;Urban;Y
+NIL;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;0;Semiurban;N
+Male;No;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;1;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;No;0;Graduate;NIL;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;No;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;No;0;Graduate;No;Low;Medium-High;Medium-Low;Medium-Long term;1;Urban;N
+Female;Yes;0;Graduate;No;Medium-Low;Null;Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;1;Graduate;No;Low;Null;Medium-Low;Medium-Long term;NIL;Rural;N
+Male;Yes;1;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;0;Rural;N
+Male;Yes;1;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Short term;1;Rural;N
+Male;Yes;0;Graduate;No;Low;Medium-Low;Medium-High;Medium-Long term;1;Urban;Y
+Female;No;0;Not Graduate;No;Low;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+NIL;No;0;Graduate;No;Medium-High;Null;Medium-Low;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Graduate;Yes;Low;Null;Medium-High;Medium-Long term;0;Semiurban;N
+Male;Yes;0;Graduate;No;Medium-Low;Medium-High;Medium-Low;Medium-Short term;1;Semiurban;Y
+Male;Yes;2;Graduate;Yes;High;Null;High;Medium-Long term;1;Semiurban;N
+NIL;No;3;Graduate;Yes;High;Null;High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Graduate;No;Medium-High;Medium-High;Medium-High;Medium-Short term;1;Rural;Y
+Male;Yes;0;Graduate;Yes;High;Null;High;Medium-Long term;1;Urban;Y
+Male;No;0;Not Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Not Graduate;Yes;High;Low;Medium-High;Medium-Long term;1;Rural;N
+Male;No;NIL;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;0;Semiurban;N
+Male;Yes;0;Graduate;Yes;High;Null;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;2;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Female;No;3;Graduate;NIL;Low;High;High;Medium-Short term;NIL;Urban;N
+Male;Yes;0;Not Graduate;NIL;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;3;Graduate;No;Medium-High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Male;No;0;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Rural;Y
+Female;Yes;1;Graduate;No;High;Null;Very High;Medium-Long term;1;Semiurban;Y
+Male;Yes;0;Not Graduate;No;Low;Medium-High;NIL;Medium-Short term;1;Urban;N
+Male;Yes;1;Graduate;No;Medium-Low;Medium-High;Medium-High;Medium-Long term;1;Semiurban;Y
+Male;Yes;2;Not Graduate;No;Medium-High;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Male;Yes;0;Graduate;No;Medium-Low;Medium-Low;Medium-High;Medium-Long term;1;Rural;Y
+Female;No;0;Graduate;No;Medium-Low;Null;Medium-Low;Medium-Long term;1;Rural;Y
+Male;Yes;3;Graduate;No;Medium-High;Null;Low;Medium-Short term;1;Rural;Y
+Male;Yes;1;Graduate;No;High;Low;High;Medium-Long term;1;Urban;Y
+Male;Yes;2;Graduate;No;High;Null;Medium-High;Medium-Long term;1;Urban;Y
+Female;No;0;Graduate;Yes;Medium-High;Null;Medium-High;Medium-Long term;0;Semiurban;N
