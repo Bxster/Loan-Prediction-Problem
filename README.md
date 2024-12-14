@@ -1,2 +1,2 @@
-# Loan-Prediction-Problem
-Loan Prediction Problem - IA project with Prolog
+# Loan Prediction Problem
+Per maggiori dettagli sul progetto, consulta il documento completo [qui](Docs/Relazione_Progetto_IA.pdf).
