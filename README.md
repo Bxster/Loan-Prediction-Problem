@@ -1,4 +1,4 @@
 # Loan Prediction Problem
-Per maggiori dettagli sul progetto, consulta la relazione completa [qui](Docs/Relazione_Progetto_IA.pdf).  
-Consulta il power point completo [qui](Docs/Loan_Prediction_Problem.pptx).
+For more details on the project, see the report [here](Docs/Relazione_Progetto_IA.pdf).  
+See the PowerPoint [here](Docs/Loan_Prediction_Problem.pptx).
 
